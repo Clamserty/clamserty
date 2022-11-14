@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@600&family=Shadows+Into+Light&display=swap');
+.description {
+    left: 50%;
+    top: 50%;
+    width: 80%;
+    text-align: center;
+    color: white;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+.description h1 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 80px;
+    /* margin-top: 80px; */
+}
+    .description p {
+        font-family: 'Shadows Into Light', cursive;
+    margin: 20px auto;
+    font-weight: 100;
+     line-height: 25px;
+  } 
